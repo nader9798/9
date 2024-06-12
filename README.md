@@ -1,4 +1,4 @@
-<p align="center">
+<p alignظ="center">
 <img src="https://i.postimg.cc/y6JgKqyD/playstation-svgrepo-com.png" width="15%" height="15%" class="d-inline-block align-top" alt="">
 </p>
 
